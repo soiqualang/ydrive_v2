@@ -1,0 +1,1 @@
+pg_restore -p 5432 -U postgres -d thuadatq1 "C:\Users\dtlong\Desktop\thudatq1.backup"

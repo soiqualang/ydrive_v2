@@ -1,0 +1,1 @@
+psql -p 5432 -U postgres -d thuadatq1 -q -f "C:\Users\dtlong\Desktop\thuadatq1.sql"

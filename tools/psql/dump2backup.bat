@@ -1,0 +1,1 @@
+pg_dump -p 5433 -U postgres -f "D:\tmp\sqlout\thuadat_dongnai_v4.backup" "thuadat_dongnai_v4"
